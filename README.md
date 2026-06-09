@@ -13,13 +13,15 @@
 **training**
 
 >cd your/path/to/VIFNet  
-python train_vifnet.py  
+python train_vifnet.py
+
 The trained models will be placed in the /trained_models folder.
 
 ***
 **testing**
 >cd your/path/to/VIFNet  
-python test.py  
+python test.py
+
 The predicted image will be placed in the /pred_imgs_rgbt folder.
 
 

@@ -1,4 +1,7 @@
 **1. VIFNet**
+
+Source: https://github.com/mengyu212/VIFNet_dehazing.git
+
 >@article  
 {yu2024vifnet,  
   title={VIFNet: An end-to-end visible-infrared fusion network for image dehazing},  

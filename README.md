@@ -43,3 +43,10 @@ Source: https://github.com/hangxiaotian/CEEF.git
   doi={10.1109/TMM.2021.3110483}
 }
 
+**3. SSIM/PSNR/MSE**
+
+SSIM: https://ww2.mathworks.cn/help/images/ref/ssim.html
+
+PSNR: https://ww2.mathworks.cn/help/images/ref/psnr.html
+
+MSE: https://ww2.mathworks.cn/help/deeplearning/ref/dlarray.mse.html
